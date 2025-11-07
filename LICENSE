@@ -1,0 +1,44 @@
+Rozhak Ethical Lock License (REL-1.0)
+Copyright (c) 2025 Rozhak
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), subject to
+the following limited permissions and restrictions:
+
+1. Permitted Uses
+   - You are permitted to run and use the Software solely for:
+     a) personal learning and study; and
+     b) authorized, ethical penetration testing where you have explicit permission.
+   - You may inspect and read the Software's source code for the purposes above.
+   - You may provide non-commercial feedback, report issues, and open bug reports.
+
+2. Prohibited Uses (strictly forbidden without prior written permission from the copyright holder)
+   - Modifying, forking into derivative works, or creating adaptations of the Software.
+   - Republishing, distributing, selling, renting, sublicensing, or otherwise transferring
+     copies of the Software (in whole or in part).
+   - Using the Software to commit illegal acts, to harm others, or to compromise systems
+     without explicit authorization.
+   - Removing, altering, or obscuring this license notice or any attribution to the author.
+
+3. Termination
+   - Any breach of the terms above will automatically terminate the rights granted under
+     this License. Upon termination you must immediately cease all use and destroy any
+     copies of the Software in your possession.
+
+4. Disclaimer of Warranty; Limitation of Liability
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+     INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+     PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER
+     BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN
+     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE,
+     INCLUDING BUT NOT LIMITED TO LOSS OF DATA, ACCOUNT SANCTIONS, OR LEGAL ACTION
+     ARISING FROM MISUSE.
+
+5. Contact / Permissions
+   - For permissions beyond those explicitly granted (for example: redistribution,
+     modification, commercial use, or collaborative development), contact the copyright
+     holder via the repository contact channels.
+
+Plain-language summary:
+You may read and run this code for learning and for authorized ethical testing only.
+You may not modify, redistribute, sell, or use it to harm others. No warranty — use at your own risk.
