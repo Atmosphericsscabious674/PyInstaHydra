@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+C='bold deep_sky_blue4'
+try:import os,urllib.parse,sys,requests,random,time,json,re,datetime,calendar,uuid,hashlib,binascii,struct,base64,urllib.request,string,secrets,csv;from concurrent.futures import ThreadPoolExecutor;from rich.columns import Columns;from rich import print as H;from platform import platform;from rich.console import Console as A;from rich.tree import Tree;from rich.panel import Panel as B;from requests.exceptions import RequestException
+except Exception as D:os.system(f"xdg-open https://wa.me/6283847921480?text=PYINSTAHYDRA%20%3A%20{urllib.parse.quote(str(D))}%21");sys.exit(1)
+E,F,G='1.0','𝚁̷𝚘̷𝚣̷𝚑̷𝚊̷𝚔̷','𝟸𝟾-𝙵𝚎𝚋𝚛𝚞𝚊𝚛𝚢-𝟸𝟶𝟸𝟼'
+A(width=65,style=C).print(B("[bold red]●[bold yellow] ●[bold green] ●                                        [bold green]{}\n\n[bold green]  _____     _____         _       _____       _         \n[bold green] |  _  |_ _|     |___ ___| |_ ___|  |  |_ _ _| |___ ___ \n[bold green] |   __| | |-   -|   |_ -|  _| .'|     | | | . |  _| .'|\n[bold green] |__|  |_  |_____|_|_|___|_| |__,|__|__|_  |___|_| |__,|v{}\n[bold green]       |___|                           |___|\n[bold green]     [underline]♥╣[-_-]╠♥ 𝙷̷𝚢̷𝚍̷𝚛̷𝚊̷ 𝚛̷𝚎̷𝚋̷𝚘̷𝚛̷𝚗̷ 𝚏̷𝚘̷𝚛̷ 𝙸̷𝙶̷. 𝚋̷𝚢̷ {} ♥╣[-_-]╠♥".format(G,E,F)))
+A(width=65,style=C).print(B(f"[bold white]PyInstaHydra is currently in final closed development. The public release is scheduled for [bold red]28 February 2026 at 00:00 UTC[bold white].\n\nAdvanced header forgery, payload mutation, live wordlist pruning – built for authorized pentest only. No early access. No issues until launch. Stay sharp.\n\n– Rozhak & Team",title='>> [Warning] <<'))
+sys.exit(0)

@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+Prem.py
+*.py[cod]
+*.pyo
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Environment & secrets
+*.env
+.env.*
+
+# Logs & temporary files
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
